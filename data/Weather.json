@@ -98,7 +98,7 @@
   "BloodRain": {
     "DefName": "BloodRain",
     "Label": "blood rain",
-    "Description": "Anyone exposed to the blood rain for long enough will be driven into a berserk rage. Certain traits and psychic sensitivity influence the berserk effect.\n\n<i><color=#66E0E4FF>Anomaly</color></i>",
+    "Description": "Anyone exposed to the blood rain for long enough will be driven into a berserk rage. Certain traits and psychic sensitivity influence the berserk effect.\n(Anomaly)",
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
@@ -107,10 +107,22 @@
     "modactive": true,
     "Version": 1
   },
+  "Windy": {
+    "DefName": "Windy",
+    "Label": "windy",
+    "Description": "Strong winds reduce movement speed.\n(Odyssey)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Odyssey",
+    "modactive": true,
+    "Version": 1
+  },
   "ToxRain": {
     "DefName": "ToxRain",
     "Label": "tox rain",
-    "Description": "Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "Description": "Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n(Odyssey)",
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
@@ -122,7 +134,7 @@
   "Sandstorm": {
     "DefName": "Sandstorm",
     "Label": "sandstorm",
-    "Description": "Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "Description": "Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere.\n(Odyssey)",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
@@ -134,7 +146,7 @@
   "BlindFog": {
     "DefName": "BlindFog",
     "Label": "blind fog",
-    "Description": "A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "Description": "A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range.\n(Odyssey)",
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
@@ -146,7 +158,7 @@
   "Overcast": {
     "DefName": "Overcast",
     "Label": "overcast",
-    "Description": "Thick clouds obscure the sky, reducing light levels.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "Description": "Thick clouds obscure the sky, reducing light levels.\n(Odyssey)",
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
@@ -158,7 +170,7 @@
   "Blizzard": {
     "DefName": "Blizzard",
     "Label": "blizzard",
-    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n(Odyssey)",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
@@ -170,7 +182,7 @@
   "TorrentialRain": {
     "DefName": "TorrentialRain",
     "Label": "torrential rain",
-    "Description": "Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "Description": "Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n(Odyssey)",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
@@ -182,7 +194,7 @@
   "VPE_Hurricane": {
     "DefName": "VPE_Hurricane",
     "Label": "hurricane",
-    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
+    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n(Vanilla Psycasts Expanded)",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
@@ -191,82 +203,22 @@
     "modactive": true,
     "Version": 1
   },
-  "Windy": {
-    "DefName": "Windy",
-    "Label": "windy",
-    "Description": "A clear, windy day, great for turbines, not so great for shooting.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
+  "AnomalyWeather": {
+    "DefName": "AnomalyWeather",
+    "Label": "darkness",
+    "Description": null,
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "Cloudy": {
-    "DefName": "Cloudy",
-    "Label": "cloudy",
-    "Description": "A cloudy day, lowers brightness.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "FogSnow": {
-    "DefName": "FogSnow",
-    "Label": "fog snow",
-    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down, fog reduces sight.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 200,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "Dust": {
-    "DefName": "Dust",
-    "Label": "dust",
-    "Description": "Dust reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "DryDuststorm": {
-    "DefName": "DryDuststorm",
-    "Label": "dry duststorm",
-    "Description": "Dry duststorms are dangerous because the lightning can start fires and there is no rain to put them out.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 300,
-    "KarmaType": "Bad",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "DoubleRainbow": {
-    "DefName": "DoubleRainbow",
-    "Label": "double rainbow",
-    "Description": "A double rainbow. The weather is soothing.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 150,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
+    "ModSource": "Anomaly Research Asteroid",
     "modactive": true,
     "Version": 1
   },
   "VPE_RadioactiveFog": {
     "DefName": "VPE_RadioactiveFog",
     "Label": "radioactive fog",
-    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n(Vanilla Furniture Expanded - Power)",
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
@@ -275,15 +227,75 @@
     "modactive": true,
     "Version": 1
   },
-  "SnowyThunderStorm": {
-    "DefName": "SnowyThunderStorm",
-    "Label": "thundersnow",
-    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.\n\n<i><color=#66E0E4FF>(CAP) Thunder Snow</color></i>",
+  "Sinnamon_Windy": {
+    "DefName": "Sinnamon_Windy",
+    "Label": "whirlwind",
+    "Description": "Wind is increasing the wind turbine output.\n(More Ritual Rewards)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "More Ritual Rewards",
+    "modactive": true,
+    "Version": 1
+  },
+  "VPEH_Bloodstorm": {
+    "DefName": "VPEH_Bloodstorm",
+    "Label": "bloodstorm",
+    "Description": "Mystical downpour of blood, caused by forbidden hemosage psycast. While non-hemogenic individuals are choking on blood, sanguophages regenerate hemogen and can cast psycasts without worrying about psychic heat.\n(Vanilla Psycasts Expanded - Hemosage)",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Psycasts Expanded - Hemosage",
+    "modactive": true,
+    "Version": 1
+  },
+  "VQE_AncientSilo": {
+    "DefName": "VQE_AncientSilo",
+    "Label": "ancient silo",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Quests Expanded - Deadlife",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_FertileRains": {
+    "DefName": "VEE_FertileRains",
+    "Label": "fertile rain",
+    "Description": "Unusually nutrient-rich rainfall is sweeping across the region, boosting plant growth for its duration.\n(Vanilla Landmarks Expanded)",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_DustStorm": {
+    "DefName": "VEE_DustStorm",
+    "Label": "dust storm",
+    "Description": "A choking wall of wind-driven dust sweeps across the land, reducing visibility, slowing movement, and scouring anything left exposed.\n(Vanilla Landmarks Expanded)",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "[CAP] Thunder Snow",
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VQEA_AncientComplex": {
+    "DefName": "VQEA_AncientComplex",
+    "Label": "ancient complex",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Quests Expanded - Ancients",
     "modactive": true,
     "Version": 1
   }
