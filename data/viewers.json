@@ -1,10 +1,10 @@
 {
-  "total": 16,
+  "total": 20,
   "viewers": [
     {
       "username": "djsmoochum",
       "karma": 100,
-      "coins": 1779,
+      "coins": 2754,
       "isBanned": false,
       "platformIds": {
         "twitch": "62132935"
@@ -13,7 +13,7 @@
     {
       "username": "pastapower1999",
       "karma": 300,
-      "coins": 60211,
+      "coins": 63136,
       "isBanned": false,
       "platformIds": {
         "twitch": "179568617"
@@ -22,7 +22,7 @@
     {
       "username": "oooooven",
       "karma": 186,
-      "coins": 1005974,
+      "coins": 1007781,
       "isBanned": false,
       "platformIds": {
         "twitch": "446682966"
@@ -31,7 +31,7 @@
     {
       "username": "brushbug",
       "karma": 100,
-      "coins": 1780,
+      "coins": 5105,
       "isBanned": false,
       "platformIds": {
         "twitch": "29851551"
@@ -40,7 +40,7 @@
     {
       "username": "nightbot",
       "karma": 100,
-      "coins": 926,
+      "coins": 2851,
       "isBanned": false,
       "platformIds": {
         "twitch": "19264788"
@@ -49,7 +49,7 @@
     {
       "username": "chillgreenbean",
       "karma": 104,
-      "coins": 2729,
+      "coins": 5257,
       "isBanned": false,
       "platformIds": {
         "twitch": "136155860"
@@ -58,7 +58,7 @@
     {
       "username": "nuggetheroofficial",
       "karma": 175,
-      "coins": 2185,
+      "coins": 3888,
       "isBanned": false,
       "platformIds": {
         "twitch": "815814388"
@@ -67,7 +67,7 @@
     {
       "username": "nightriderhollow",
       "karma": 102,
-      "coins": 704,
+      "coins": 1692,
       "isBanned": false,
       "platformIds": {
         "twitch": "1183951311"
@@ -75,8 +75,8 @@
     },
     {
       "username": "dazy312_",
-      "karma": 100,
-      "coins": 740,
+      "karma": 144,
+      "coins": 2916,
       "isBanned": false,
       "platformIds": {
         "twitch": "1300582172"
@@ -85,7 +85,7 @@
     {
       "username": "elusivesmoke",
       "karma": 135,
-      "coins": 590,
+      "coins": 1903,
       "isBanned": false,
       "platformIds": {
         "twitch": "510989054"
@@ -94,7 +94,7 @@
     {
       "username": "tesef",
       "karma": 100,
-      "coins": 1506,
+      "coins": 3055,
       "isBanned": false,
       "platformIds": {
         "twitch": "124563734"
@@ -103,7 +103,7 @@
     {
       "username": "bayo725",
       "karma": 100,
-      "coins": 1050,
+      "coins": 2025,
       "isBanned": false,
       "platformIds": {
         "twitch": "1444448161"
@@ -111,8 +111,8 @@
     },
     {
       "username": "rarepickle2287",
-      "karma": 139,
-      "coins": 1120,
+      "karma": 164,
+      "coins": 4821,
       "isBanned": false,
       "platformIds": {
         "twitch": "850655625"
@@ -121,14 +121,14 @@
     {
       "username": "twitch:850655625",
       "karma": 100,
-      "coins": 1675,
+      "coins": 2800,
       "isBanned": false,
       "platformIds": {}
     },
     {
       "username": "benderisgreat_34_",
-      "karma": 100,
-      "coins": 5508,
+      "karma": 168,
+      "coins": 1848,
       "isBanned": false,
       "platformIds": {
         "twitch": "763697448"
@@ -137,9 +137,43 @@
     {
       "username": "twitch:124563734",
       "karma": 100,
-      "coins": 725,
+      "coins": 2000,
       "isBanned": false,
       "platformIds": {}
+    },
+    {
+      "username": "twitch:763697448",
+      "karma": 100,
+      "coins": 1625,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "edvinukes1",
+      "karma": 100,
+      "coins": 1700,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1011768455"
+      }
+    },
+    {
+      "username": "the_tea_drinker_trobos",
+      "karma": 100,
+      "coins": 2450,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1099209839"
+      }
+    },
+    {
+      "username": "discontentedlesbianrak",
+      "karma": 100,
+      "coins": 1850,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1443738137"
+      }
     }
   ]
 }

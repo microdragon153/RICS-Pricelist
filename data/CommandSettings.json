@@ -2096,7 +2096,7 @@
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
-    "CommandAlias": "",
+    "CommandAlias": "price",
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "AllowedRaidTypes": [],
