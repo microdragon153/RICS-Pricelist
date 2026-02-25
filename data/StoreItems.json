@@ -59533,7 +59533,7 @@
       "BasePrice": 601,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "Mosi_GrenadeFirefoam": {
       "DefName": "Mosi_GrenadeFirefoam",
@@ -59548,7 +59548,7 @@
       "BasePrice": 310,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "Mosi_FirefoamSprayer": {
       "DefName": "Mosi_FirefoamSprayer",
@@ -59563,7 +59563,7 @@
       "BasePrice": 960,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "FloodLightWithSolarPanel": {
       "DefName": "FloodLightWithSolarPanel",
@@ -89802,6 +89802,141 @@
       "Mod": "Medieval Overhaul",
       "BasePrice": 137,
       "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "VWE_Gun_ChargeSniperRifle_Unique": {
+      "DefName": "VWE_Gun_ChargeSniperRifle_Unique",
+      "CustomName": "Unique charge sniper rifle",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Vanilla Weapons Expanded",
+      "BasePrice": 2750,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_1x1Rug": {
+      "DefName": "Amorphous_1x1Rug",
+      "CustomName": "Amorphous rug (1x1)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 17,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_1x2Rug": {
+      "DefName": "Amorphous_1x2Rug",
+      "CustomName": "Amorphous rug (1x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 30,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_2x2Rug": {
+      "DefName": "Amorphous_2x2Rug",
+      "CustomName": "Amorphous rug (2x2)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_2x3Rug": {
+      "DefName": "Amorphous_2x3Rug",
+      "CustomName": "Amorphous rug (2x3)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 90,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_3x3Rug": {
+      "DefName": "Amorphous_3x3Rug",
+      "CustomName": "Amorphous rug (3x3)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 135,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_3x4Rug": {
+      "DefName": "Amorphous_3x4Rug",
+      "CustomName": "Amorphous rug (3x4)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 180,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Amorphous_4x4Rug": {
+      "DefName": "Amorphous_4x4Rug",
+      "CustomName": "Amorphous rug (4x4)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Amorphous style pack",
+      "BasePrice": 240,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "VREA_SEX_Reproduction": {
+      "DefName": "VREA_SEX_Reproduction",
+      "CustomName": "Artificial reproductives",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 2,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "RimWorld",
+      "BasePrice": 130,
+      "Category": "Android body parts",
       "Enabled": true,
       "modactive": true
     }

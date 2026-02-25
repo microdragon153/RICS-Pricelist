@@ -1,5 +1,5 @@
 {
-  "total": 20,
+  "total": 21,
   "viewers": [
     {
       "username": "djsmoochum",
@@ -13,7 +13,7 @@
     {
       "username": "pastapower1999",
       "karma": 300,
-      "coins": 70994,
+      "coins": 77369,
       "isBanned": false,
       "platformIds": {
         "twitch": "179568617"
@@ -31,7 +31,7 @@
     {
       "username": "brushbug",
       "karma": 100,
-      "coins": 7285,
+      "coins": 13161,
       "isBanned": false,
       "platformIds": {
         "twitch": "29851551"
@@ -66,8 +66,8 @@
     },
     {
       "username": "nightriderhollow",
-      "karma": 102,
-      "coins": 2604,
+      "karma": 111,
+      "coins": 4264,
       "isBanned": false,
       "platformIds": {
         "twitch": "1183951311"
@@ -84,8 +84,8 @@
     },
     {
       "username": "elusivesmoke",
-      "karma": 232,
-      "coins": 11388,
+      "karma": 155,
+      "coins": 1064,
       "isBanned": false,
       "platformIds": {
         "twitch": "510989054"
@@ -93,8 +93,8 @@
     },
     {
       "username": "tesef",
-      "karma": 100,
-      "coins": 5021,
+      "karma": 131,
+      "coins": 20447,
       "isBanned": false,
       "platformIds": {
         "twitch": "124563734"
@@ -112,7 +112,7 @@
     {
       "username": "rarepickle2287",
       "karma": 300,
-      "coins": 1024,
+      "coins": 5056,
       "isBanned": false,
       "platformIds": {
         "twitch": "850655625"
@@ -127,8 +127,8 @@
     },
     {
       "username": "benderisgreat_34_",
-      "karma": 183,
-      "coins": 8635,
+      "karma": 300,
+      "coins": 19964,
       "isBanned": false,
       "platformIds": {
         "twitch": "763697448"
@@ -151,7 +151,7 @@
     {
       "username": "edvinukes1",
       "karma": 100,
-      "coins": 3125,
+      "coins": 13671,
       "isBanned": false,
       "platformIds": {
         "twitch": "1011768455"
@@ -160,7 +160,7 @@
     {
       "username": "the_tea_drinker_trobos",
       "karma": 100,
-      "coins": 5900,
+      "coins": 11825,
       "isBanned": false,
       "platformIds": {
         "twitch": "1099209839"
@@ -174,6 +174,13 @@
       "platformIds": {
         "twitch": "1443738137"
       }
+    },
+    {
+      "username": "twitch:1011768455",
+      "karma": 100,
+      "coins": 1625,
+      "isBanned": false,
+      "platformIds": {}
     }
   ]
 }
