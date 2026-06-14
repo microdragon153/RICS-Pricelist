@@ -253,7 +253,7 @@
     "CustomData": ""
   },
   "pawn": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 5,
     "Cost": 0,
     "SupportsCost": false,
@@ -2368,6 +2368,29 @@
   "xenotypes": {
     "Enabled": true,
     "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "everyone",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultRaidWager": 5000,
+    "MinRaidWager": 1000,
+    "MaxRaidWager": 20000,
+    "DefaultMilitaryAidWager": 1500,
+    "MinMilitaryAidWager": 1000,
+    "MaxMilitaryAidWager": 10000,
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "ricsaichatbot": {
+    "Enabled": false,
+    "CooldownSeconds": 8,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
