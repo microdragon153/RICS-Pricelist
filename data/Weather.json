@@ -478,5 +478,77 @@
     "ModSource": "Alpha Biomes",
     "modactive": true,
     "Version": 1
+  },
+  "VEE_Whiteout": {
+    "DefName": "VEE_Whiteout",
+    "Label": "whiteout",
+    "Description": "Heavy, chilling snow that severely reduces the accuracy of ranged weapons, extinguishes fire and slows people down.\n(Vanilla Events Expanded)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Events Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_Swelter": {
+    "DefName": "VEE_Swelter",
+    "Label": "swelter",
+    "Description": "An unnatural, oppressive heat.\n(Vanilla Events Expanded)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Events Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_Inferno": {
+    "DefName": "VEE_Inferno",
+    "Label": "inferno",
+    "Description": "A catastrophic, unnatural, oppressive heat.\n(Vanilla Events Expanded)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Events Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_PsychicRain": {
+    "DefName": "VEE_PsychicRain",
+    "Label": "psychic rain",
+    "Description": "A seemingly supernatural rain that alters the very composition of time. Any person or creature not under a roof will age significantly faster.\n(Vanilla Events Expanded)",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Events Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_LongNight": {
+    "DefName": "VEE_LongNight",
+    "Label": "long night",
+    "Description": "A catastrophic celestial eclipse that blankets the world in an endless, freezing twilight, forcing the world to adapt to artificial light and increased psychic sensitivity as nocturnal predators and subterranean threats emerge in the darkness.\n(Vanilla Events Expanded)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Events Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "IsekaiThickMist": {
+    "DefName": "IsekaiThickMist",
+    "Label": "whale-mist",
+    "Description": "An unnatural, soupy mist conjured by the Whale of the Mist. It clings to everything and swallows sight at a few paces. Ranged fire is nearly useless inside it.\n(ISEKAI CREATURES ADD-ON - Isekai RPG Leveling)",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ISEKAI CREATURES ADD-ON - Isekai RPG Leveling",
+    "modactive": true,
+    "Version": 1
   }
 }

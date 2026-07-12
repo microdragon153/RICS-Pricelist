@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-08T23:58:54.1566921Z",
-  "totalActiveMods": 834,
+  "exportedAt": "2026-07-12T03:56:23.0529940Z",
+  "totalActiveMods": 845,
   "mods": [
     {
       "author": "Arylice",
@@ -168,6 +168,12 @@
       "author": "TangW",
       "name": "[TW1.6]雪人贴图重置 Retexture~Snow man",
       "steamId": "3482433222",
+      "version": null
+    },
+    {
+      "author": "ơŠă£",
+      "name": "[Vanilla Cooking] Garnish",
+      "steamId": "3759586260",
       "version": null
     },
     {
@@ -627,6 +633,12 @@
       "version": "1.0"
     },
     {
+      "author": "ferny",
+      "name": "Back For Vengeance",
+      "steamId": "3761967749",
+      "version": null
+    },
+    {
       "author": "Neceros",
       "name": "Bad Can Be Good (Continued)",
       "steamId": "2889440091",
@@ -966,6 +978,12 @@
       "author": "Kapitan Oczywisty",
       "name": "Change map edge limit",
       "steamId": "1546494565",
+      "version": null
+    },
+    {
+      "author": "ferny",
+      "name": "Chester Choose - Progression Storytellers",
+      "steamId": "3761449697",
       "version": null
     },
     {
@@ -1773,6 +1791,12 @@
       "version": null
     },
     {
+      "author": "Poupun",
+      "name": "GUILD FACTION ADD-ON - Isekai RPG Leveling",
+      "steamId": "3718568958",
+      "version": null
+    },
+    {
       "author": "Kimoju",
       "name": "Gunlink sucks less",
       "steamId": "3417891982",
@@ -2010,6 +2034,18 @@
       "author": "turkler",
       "name": "Intimacy - Socio Butterfly",
       "steamId": "3630896210",
+      "version": null
+    },
+    {
+      "author": "Poupun",
+      "name": "ISEKAI CREATURES ADD-ON - Isekai RPG Leveling",
+      "steamId": "3757560461",
+      "version": null
+    },
+    {
+      "author": "Jelly Creative",
+      "name": "ISEKAI RPG LEVELING",
+      "steamId": "3657580708",
       "version": null
     },
     {
@@ -2607,12 +2643,6 @@
       "version": null
     },
     {
-      "author": "Big Dorbo",
-      "name": "Now Playing",
-      "steamId": "3754684545",
-      "version": null
-    },
-    {
       "author": "pelador",
       "name": "NPC Bonus (Continued)",
       "steamId": "2195967255",
@@ -2754,6 +2784,18 @@
       "author": "fed1sPlay",
       "name": "Pawn Target Fix",
       "steamId": "2014789938",
+      "version": null
+    },
+    {
+      "author": "Big Dorbo",
+      "name": "Peepo Presents: LiquidSFX",
+      "steamId": "3758773902",
+      "version": null
+    },
+    {
+      "author": "Big Dorbo",
+      "name": "Peepo Presents: Now Playing",
+      "steamId": "3754684545",
       "version": null
     },
     {
@@ -2943,6 +2985,12 @@
       "version": null
     },
     {
+      "author": "danzinagri",
+      "name": "Progression: Agriculture - Dynamic Seed Icons",
+      "steamId": "3759931550",
+      "version": null
+    },
+    {
       "author": "Ferny,  Lemonskin",
       "name": "Progression: Attire",
       "steamId": "3634874325",
@@ -3099,8 +3147,8 @@
       "version": null
     },
     {
-      "author": "Hatti",
-      "name": "QualityBuilder",
+      "author": "Hatti, pkp24",
+      "name": "QualityBuilder Unofficial 1.6",
       "steamId": "3512466087",
       "version": null
     },
@@ -3156,6 +3204,12 @@
       "author": "East",
       "name": "Ranged Only Attack Gizmo",
       "steamId": "3706000794",
+      "version": null
+    },
+    {
+      "author": "7h0m4s",
+      "name": "Readable Numbers",
+      "steamId": "3762441264",
       "version": null
     },
     {
@@ -3894,6 +3948,12 @@
       "author": "Metalocif",
       "name": "Thaumaphagy Ritual",
       "steamId": "3473182232",
+      "version": null
+    },
+    {
+      "author": "Akarthus",
+      "name": "The Cosmic Odyssey - Accessory Expanded",
+      "steamId": "3758010444",
       "version": null
     },
     {
@@ -4848,6 +4908,12 @@
       "author": "divineDerivative",
       "name": "Way Better Romance",
       "steamId": "2877731755",
+      "version": null
+    },
+    {
+      "author": "Mxswat",
+      "name": "Waymakers (Roads, Rails & Infrastructure Meme)",
+      "steamId": "3761384757",
       "version": null
     },
     {
