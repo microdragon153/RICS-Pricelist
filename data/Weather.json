@@ -548,7 +548,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ISEKAI CREATURES ADD-ON - Isekai RPG Leveling",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   }
 }

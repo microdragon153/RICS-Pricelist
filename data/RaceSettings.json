@@ -5,7 +5,7 @@
     "ModActive": true,
     "BasePrice": 2625,
     "MinAge": 16,
-    "MaxAge": 9999,
+    "MaxAge": 120,
     "AllowCustomXenotypes": true,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
