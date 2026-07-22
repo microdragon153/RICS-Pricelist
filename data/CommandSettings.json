@@ -2019,7 +2019,7 @@
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
-    "PermissionLevel": "everyone",
+    "PermissionLevel": "subscriber",
     "RequiresConfirmation": false,
     "CommandAlias": "",
     "useCommandCooldown": true,
